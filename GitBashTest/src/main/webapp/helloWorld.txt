@@ -1,1 +1,1 @@
-Goodbye Earth?
+Hello from GitBash!
